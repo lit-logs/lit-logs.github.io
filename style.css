@@ -12,6 +12,7 @@ body {
 }
 
 .tab { text-indent: 40px; }
+.indent { text-indent: 40px; }
 
 #dd {
   color: maroon;
